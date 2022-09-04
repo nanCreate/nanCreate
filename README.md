@@ -16,3 +16,6 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanCreate)](https://github.com/anuraghazra/github-readme-stats)
+
+# 📦 My Public Projects:
+[![After Effects Projects](https://img.shields.io/badge/After_Effects_Projects-2ea44f?style=for-the-badge&logo=adobe+after+effects&logoColor=%23FFF)](https://github.com/nanCreate?tab=repositories&q=aeproject)
