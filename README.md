@@ -4,7 +4,7 @@
 ![Audition](https://img.shields.io/badge/Adobe%20Audition-b976ff?style=for-the-badge&logo=adobe%20Audition&logoColor=white)
 
 # 🔖 Studying:
-![progress](https://progress-bar.dev/69/?title=Сourse%20progress&width=210)
+![progress](https://progress-bar.dev/70/?title=Сourse%20progress&width=210)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
